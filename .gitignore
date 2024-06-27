@@ -1,2 +1,3 @@
 venv
 shopify_stores.txt
+.env
